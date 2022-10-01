@@ -157,9 +157,9 @@ function BoxProgress({
             color: ${theme.surfaceContentSecondary};
           `}
         >
-          Reallyy empowers you to freely organize and collaborate without borders
-          or intermediaries. Create global, bureaucracy-free organizations,
-          companies, and communities.
+          Reallyy empowers you to freely organize and collaborate without
+          borders or intermediaries. Create global, bureaucracy-free
+          organizations, companies, and communities.
         </p>
 
         {fullWidth && (

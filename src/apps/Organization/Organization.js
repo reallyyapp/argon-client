@@ -205,7 +205,7 @@ const Organization = React.memo(function Organization({
         </Box>
       ) : (
         <React.Fragment>
-            <Box heading="Installed Reallyy apps">
+          <Box heading="Installed Reallyy apps">
             <ul
               css={`
                 list-style: none;
@@ -290,7 +290,7 @@ const Organization = React.memo(function Organization({
                     <span>
                       Unfortunately, importing into Tenderly is not available on
                       the {sanitizeNetworkType(network.type)} network. Please
-                          use Reallyy on Ethereum mainnet instead.
+                      use Reallyy on Ethereum mainnet instead.
                     </span>
                   )}
                 </p>
