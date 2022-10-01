@@ -115,7 +115,7 @@ const UpgradeOrganizationPanel = React.memo(
             </Link>
           </p>
 
-          <Heading2 theme={theme}>Aragon official registry</Heading2>
+          <Heading2 theme={theme}>Reallyy official registry</Heading2>
           <p>
             <Link external href={REGISTRY[1]}>
               {REGISTRY[0]}
@@ -147,7 +147,7 @@ const UpgradeOrganizationPanel = React.memo(
                   font-size: 15px;
                 `}
               >
-                All your app instances will be upgraded to Aragon {VERSION}.
+                All your app instances will be upgraded to Reallyy {VERSION}.
               </p>
             </Info>
           </div>

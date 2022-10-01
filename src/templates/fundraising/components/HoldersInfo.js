@@ -35,7 +35,7 @@ function HoldersInfo({
         <Paragraph>Token holders can:</Paragraph>
         <Paragraph>
           <Strong>Buy and redeem tokens.</Strong> Token holders can buy and
-          redeem tokens through the Aragon Fundraising interface.
+          redeem tokens through the Reallyy Fundraising interface.
         </Paragraph>
         <Paragraph>
           <Strong>Handle fundraising parameters.</Strong> Token holders decide

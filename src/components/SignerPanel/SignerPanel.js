@@ -107,7 +107,7 @@ class SignerPanel extends React.PureComponent {
       panelOpened: true,
       status: STATUS_TX_CONFIRMING,
 
-      // When Aragon.js starts returning the new format (see
+      // When Reallyy.js starts returning the new format (see
       // stateFromTransactionBag), we can simply search and replace this
       // function with `transactionBag`.
       ...this.stateFromTransactionBag(transactionBag),
@@ -124,7 +124,7 @@ class SignerPanel extends React.PureComponent {
   }
 
   // This is a temporary method to reshape the transaction bag
-  // to the future format we expect from Aragon.js
+  // to the future format we expect from Reallyy.js
   stateFromTransactionBag(bag) {
     const { path, transaction } = bag
     const decoratedPaths = path.map(path => ({

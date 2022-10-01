@@ -92,7 +92,7 @@ const highlights = [
       small: null,
       large: `
       Manage your organization on the go from any web3 browser with the
-      mobile-friendly Aragon web app.
+      mobile-friendly Reallyy web app.
     `,
     },
     visual: {

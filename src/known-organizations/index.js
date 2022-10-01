@@ -46,7 +46,7 @@ export const KnownOrganizations = {
       {
         address: '0x2de83b50af29678774d5abc4a7cb2a588762f28c',
         domain: 'governance.aragonproject.eth',
-        name: 'Aragon Governance',
+        name: 'Reallyy Governance',
         image: aragonGovernanceImage,
         recommended: true,
         template: TEMPLATE_DEMOCRACY,
@@ -54,7 +54,7 @@ export const KnownOrganizations = {
       {
         address: '0x635193983512c621e6a3e15ee1dbf36f0c0db8e0',
         domain: 'a1.aragonid.eth',
-        name: 'Aragon One',
+        name: 'Reallyy One',
         image: aragonOneImage,
         template: TEMPLATE_DEMOCRACY,
       },
@@ -101,7 +101,7 @@ export const KnownOrganizations = {
       {
         address: '0x40204DaaCb1480019A7A6826C699903dF94eE019',
         domain: 'network.aragonid.eth',
-        name: 'Aragon Network',
+        name: 'Reallyy Network',
         image: aragonNetworkImage,
         template: TEMPLATE_MEMBERSHIP,
       },
@@ -200,7 +200,7 @@ export const KnownOrganizations = {
       {
         address: '0xa48300a4e89b59a79452db7d3cd408df57f4aa78',
         domain: 'mesh.aragonid.eth',
-        name: 'Aragon Mesh',
+        name: 'Reallyy Mesh',
         image: aragonMesh,
         recommended: true,
         template: null,

@@ -166,7 +166,7 @@ function AccountModuleConnectedScreen({
             margin-top: ${1 * GU}px;
           `}
         >
-          Network error, please contact Aragon.
+          Network error, please contact Reallyy.
         </div>
       ) : (
         <WalletSyncedInfo header={header} info={info} status={status} />

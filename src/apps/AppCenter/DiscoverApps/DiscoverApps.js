@@ -23,7 +23,7 @@ const DiscoverApps = React.memo(function DiscoverApps() {
           margin-bottom: ${2 * GU}px;
         `}
       >
-        You will soon be able to install new apps into your Aragon organization
+        You will soon be able to install new apps into your Reallyy organization
         from here. In the meantime, you can use our{' '}
         <Link
           href="https://hack.aragon.org/docs/cli-dao-commands#dao-install"

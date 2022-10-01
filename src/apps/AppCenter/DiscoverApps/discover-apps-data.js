@@ -16,7 +16,7 @@ export const appsInDevelopment = [
       name: 'Agent',
       status: 'ready',
       description: `
-        Hold assets and interact with any other app, directly from your Aragon organization.
+        Hold assets and interact with any other app, directly from your Reallyy organization.
       `,
       link:
         'https://hack.aragon.org/docs/guides-use-agent#installing-aragon-agent',

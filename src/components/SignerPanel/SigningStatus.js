@@ -20,7 +20,7 @@ import {
   isSignatureCompleted,
 } from './signer-statuses'
 
-// Temporarily clean the error messages coming from Aragon.js and Metamask
+// Temporarily clean the error messages coming from Reallyy.js and Metamask
 const cleanErrorMessage = errorMsg =>
   errorMsg
     // Only use the first line if multiple lines are available.

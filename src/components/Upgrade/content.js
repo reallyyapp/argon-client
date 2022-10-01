@@ -128,7 +128,7 @@ highlights['latest'] = [
     description: {
       small: null,
       large: `
-        Aragon Agent enables organizations to interact
+        Reallyy Agent enables organizations to interact
         directly with any Ethereum application. Access
         Web3 like never before.
       `,

@@ -86,7 +86,7 @@ export const networkConfigs = {
       live: false,
     },
   },
-  // xDai is an experimental chain in the Aragon Client. It's possible
+  // xDai is an experimental chain in the Reallyy Client. It's possible
   // and expected that a few things will break.
   [chains.getChainInformation(100).type]: {
     isActive: false,
